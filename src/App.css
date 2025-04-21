@@ -1,0 +1,36 @@
+.principal {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: auto;
+    height: auto;
+    overflow: hidden;
+}
+.cuerpoPagina {
+    padding-top: 100px;
+}
+.fondo {
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+.fondogris {
+    background-color: #f0f0f2;
+}
+.fondoAboutUs p {
+    font-size: 20px;
+    font-weight: 400;
+}
+
+/*MODO OSCURO*/
+.modo-oscuro .fondo {
+    background-color: #141414;
+}
+
+.modo-oscuro .fondogris {
+    background-color: #000000;
+}
+
+.modo-oscuro .fondoAboutUs h3,
+.modo-oscuro .fondoAboutUs p {
+    color: white;
+}

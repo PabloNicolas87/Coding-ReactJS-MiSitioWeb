@@ -1,0 +1,12 @@
+.redes a {
+    background-color: transparent;
+    width: 40px;
+    height: 40px;
+    display: block;
+    border-radius: 5px;
+    transition: all 0.5s ease-out;
+}
+.redes a img {
+    width: 40px;
+    height: 40px;
+}

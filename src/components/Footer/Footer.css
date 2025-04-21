@@ -1,0 +1,15 @@
+.footer {
+    background-color: #F5F5F7 !important;
+}
+.footer span {
+    color: black !important;
+}
+
+/*MODO OSCURO*/
+.modo-oscuro .footer {
+    background-color: #141414 !important;
+}
+
+.modo-oscuro .footer span {
+    color: white !important;
+}

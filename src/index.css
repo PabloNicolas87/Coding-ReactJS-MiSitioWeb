@@ -1,0 +1,14 @@
+@font-face {
+  font-family: myFirstFont;
+  src: url("/public/fonts/sf-pro-display-cufonfonts/SFPRODISPLAYREGULAR.OTF");
+}
+
+body {
+  font-family: 'myFirstFont' !important; 
+}
+
+@media only screen and (max-width: 768px) {
+  .contenedor h2 {
+      font-size: 40px;
+  }
+}

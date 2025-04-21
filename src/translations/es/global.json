@@ -1,0 +1,45 @@
+{
+    "header": {
+        "hello-world": "Hola Mundo",
+        "select-language": "ESP",
+        "about-me": "Sobre Mi",
+        "my-skills": "Mis Habilidades",
+        "my-projects": "Mis Proyectos",
+        "contact": "Contactame!",
+        "spanish": "Español",
+        "portuguese": "Portugués",
+        "english": "Inglés"
+    },
+    "aboutUs": {
+        "title": "Sobre Mi",
+        "paragraph1": "Soy Pablo, Argentino nacido el 12 de agosto de 1988 en Buenos Aires. Vivo en Balneario Camboriú, Brasil, desde principios de 2022 y trabajo como desarrollador Front-End. Me apasiona crecer en el mundo de la tecnología, soy responsable, autodidacta, proactivo y disfruto trabajar en equipo para aprender y resolver desafíos.",
+        "paragraph3": "Utilizo lenguajes como HTML, CSS y JavaScript, y para la estilización empleo Tailwind CSS y Bootstrap. Con estas herramientas, creo interfaces modernas y responsivas, enfocándome en ofrecer soluciones eficientes y atractivas para mejorar la experiencia del usuario.",
+        "paragraph4": "Utilizo tecnologías avanzadas como los frameworks Next.js para renderizado del lado del servidor (SSR) y Angular, además de la librería React.js. También empleo Firebase para el almacenamiento de bases de datos. Manejo herramientas de gestión de proyectos y control de versiones, siendo Git una parte fundamental de mi flujo de trabajo.",
+        "paragraph5": "Además de mi experiencia en desarrollo, estoy familiarizado con sistemas de gestión de contenidos (CMS) como Webflow y WordPress. Esto me permite proporcionar soluciones integrales y personalizadas que se ajustan a las necesidades específicas de contenido y administración de mis clientes.",
+        "paragraph6": "Actualmente, estoy expandiendo mis conocimientos hacia el desarrollo backend, donde me estoy especializando en Java y Spring Boot. Esto me permite complementar mis habilidades de front-end con la capacidad de desarrollar aplicaciones completas, robustas y escalables, mejorando mis competencias como desarrollador integral.",
+        "paragraph7": "Además, estoy explorando el mundo del cloud computing, adquiriendo experiencia en plataformas como Oracle Cloud Infrastructure (OCI) y AWS. Estas herramientas me permiten optimizar la infraestructura y gestión de recursos, integrando soluciones en la nube que mejoran el rendimiento y la escalabilidad de los proyectos.",
+        "paragraph8": "En paralelo, estoy incursionando en el testing automation, utilizando herramientas como JUnit y Selenium para pruebas automatizadas en Java, y Playwright y Cypress para pruebas de front-end con JavaScript. Esto me ayuda a asegurar la calidad y estabilidad de las aplicaciones en entornos de desarrollo continuo."
+    },
+    "mySkills": {
+        "title": "Mis Habilidades"
+    },
+    "myProjects": {
+        "title": "Mis Proyectos",
+        "project2": "Calculadora",
+        "project3": "E-commerce",
+        "project4": "Lista de Tareas",
+        "project6": "Buscador de Películas",
+        "project7": "Gestión de Alumnos",
+        "view": "Ver Más",
+        "close": "Cerrar",
+        "deploy": "Implementar",
+        "descriptionProyect": "Para construir este sítio, se utilizaron tecnologías"
+    },
+    "footer": {
+        "rights": "© 2024 Todos los Derechos Reservados"
+    },
+    "contact": {
+        "title": "Contactame !",
+        "download": "Descargar CV"
+    }
+}

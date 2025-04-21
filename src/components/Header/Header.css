@@ -1,0 +1,85 @@
+.navbar {
+    background-color: #E6E6E6;
+    width: 100%;
+    height: 100px;
+}
+.collapse:not(.show) {
+    display: none !important;
+}
+.nav-link {
+    color: #272729 !important;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    cursor: pointer;
+    font-size: 20px !important;
+}
+.btn-idioma {
+    background-color: #272729 !important;
+    color: white;
+    border-radius: 7px;
+    margin-left: 5px;
+    margin-right: 5px;
+    width: -moz-fit-content;
+    width: fit-content;
+    background-color: #272729;
+}
+.lista-idiomas {
+    background-color: #f5f5f7 !important;
+    border: none !important;
+}
+.lista-idiomas li button {
+    transition: all 0.3s ease-out;
+    color: #272729 !important;
+}
+.lista-idiomas li button:hover {
+    background-color: #272729 !important;
+    color: white !important;
+}
+.navbar-toggler {
+    border: none !important;
+}
+.navbar-toggler:focus {
+    box-shadow: none !important;
+}
+.offcanvas {
+    background-color: #f0f0f2 !important;
+}
+.cerrar-boton {
+    background-color: transparent;
+    border: none !important;
+}
+.material-symbols-outlined {
+    font-size: 40px !important;
+    color: #272729 !important;
+}
+
+/*MODO OSCURO*/
+.modo-oscuro .navbar {
+    background-color: #1d1d1f !important;
+    color: white;
+}
+
+.modo-oscuro .nav-link,
+.modo-oscuro .offcanvas .btn-close,
+.modo-oscuro .offcanvas p {
+    color: white !important;
+}
+
+.modo-oscuro .btn-idioma,
+.modo-oscuro .btn-idioma:hover,
+.modo-oscuro .btn-idioma:active {
+    background-color: #f5f5f7 !important;
+    color: #141414 !important;
+}
+
+.modo-oscuro .offcanvas {
+    background-color: #141414 !important;
+}
+
+.modo-oscuro .material-symbols-outlined {
+    color: white !important;
+}
+
+

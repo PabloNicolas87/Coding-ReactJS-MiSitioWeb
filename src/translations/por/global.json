@@ -1,0 +1,45 @@
+{
+    "header": {
+        "hello-world": "Olá Mundo",
+        "select-language": "POR",
+        "about-me": "Sobre Mim",
+        "my-skills": "Minhas Habilidades",
+        "my-projects": "Meus Projetos",
+        "contact": "Contate-Me!",
+        "spanish": "Espanhol",
+        "portuguese": "Português",
+        "english": "Inglês"
+    },
+    "aboutUs": {
+        "title": "Sobre Mim",
+        "paragraph1": "Sou Pablo, Argentino nascido em 12 de agosto de 1988 em Buenos Aires. Moro em Balneário Camboriú, Brasil, desde o início de 2022 e trabalho como desenvolvedor Front-End. Sou apaixonado por crescer no mundo da tecnologia, sou responsável, autodidata, proativo e gosto de trabalhar em equipe para aprender e resolver desafios.",
+        "paragraph3": "Utilizo linguagens como HTML, CSS e JavaScript e, para estilização, uso o Tailwind CSS e o Bootstrap. Com essas ferramentas, crio interfaces modernas e responsivas, concentrando-me em oferecer soluções eficientes e atraentes para melhorar a experiência do usuário.",
+        "paragraph4": "Uso tecnologias avançadas, como as estruturas Next.js para renderização no lado do servidor (SSR) e Angular, bem como a biblioteca React.js. Também uso o Firebase para armazenamento de banco de dados. Utilizo ferramentas de gerenciamento de projetos e controle de versões, sendo o Git uma parte fundamental do meu fluxo de trabalho.",
+        "paragraph5": "Além da minha experiência em desenvolvimento, estou familiarizado com sistemas de gestão de conteúdos (CMS) como Webflow e WordPress. Isso permite-me fornecer soluções abrangentes e personalizadas que se adaptam às necessidades específicas de conteúdo e administração dos meus clientes.",
+        "paragraph6": "Atualmente, estou expandindo minhas habilidades para o desenvolvimento de back-end, onde estou me especializando em Java e Spring Boot. Isso me permite complementar minhas habilidades de front-end com a capacidade de desenvolver aplicativos completos, robustos e dimensionáveis, aprimorando minhas competências como desenvolvedor de ponta a ponta.",
+        "paragraph7": "Também estou explorando o mundo da computação em nuvem, adquirindo experiência em plataformas como Oracle Cloud Infrastructure (OCI) e AWS. Essas ferramentas me permitem otimizar a infraestrutura e o gerenciamento de recursos, integrando soluções de nuvem que melhoram o desempenho e a escalabilidade dos projetos.",
+        "paragraph8": "Paralelamente, estou me dedicando à automação de testes, usando ferramentas como JUnit e Selenium para testes automatizados em Java, e Playwright e Cypress para testes de front-end com JavaScript. Isso me ajuda a garantir a qualidade e a estabilidade dos aplicativos em ambientes de desenvolvimento contínuo."
+    },
+    "mySkills": {
+        "title": "Minhas Habilidades"
+    },
+    "myProjects": {
+        "title": "Meus Projetos",
+        "project2": "Calculadora",
+        "project3": "E-commerce",
+        "project4": "Lista de Afazeres",
+        "project6": "Busca de Filmes",
+        "project7": "Gestão Estudantil",
+        "view": "Saiba Mais",
+        "close": "Fechar",
+        "deploy": "Implantar",
+        "descriptionProyect": "O site foi construído com as tecnologias"
+    },
+    "footer": {
+        "rights": "© 2024 Todos os Direitos Reservados"
+    },
+    "contact": {
+        "title": "Contate-Me !",
+        "download": "Descarregar CV"
+    }
+}
