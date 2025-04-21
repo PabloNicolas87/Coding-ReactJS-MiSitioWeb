@@ -22,7 +22,7 @@ const Quarters = () => {
                 <SkillItem key="Bootstrap" imageSrc={'/images/bootstrap.webp'} title={'Bootstrap'} />,
                 <SkillItem key="Tailwind" imageSrc={'/images/tailwind.webp'} title={'Tailwind'} />
             ],
-            descripcion: t("aboutUs.paragraph3")
+            descripcion: t("aboutUs.paragraph2")
         },
         { 
             id: 3, 
@@ -33,41 +33,15 @@ const Quarters = () => {
                 <SkillItem key="Firebase" imageSrc={'/images/firebase.webp'} title={'Firebase'} />,
                 <SkillItem key="Git" imageSrc={'/images/git.webp'} title={'Git'} />
             ],
-            descripcion: t("aboutUs.paragraph4")
+            descripcion: t("aboutUs.paragraph3")
         },
         { 
             id: 4, 
             habilidades: [
-                <SkillItem key="Webflow" imageSrc={'/images/webflow.webp'} title={'Webflow'} />,
-                <SkillItem key="Wordpress" imageSrc={'/images/wordpress.webp'} title={'Wordpress'} />
-            ],
-            descripcion: t("aboutUs.paragraph5")
-        },
-        { 
-            id: 5, 
-            habilidades: [
-                <SkillItem key="Java" imageSrc={'/images/java.webp'} title={'Java'} />,
-                <SkillItem key="Spring Boot" imageSrc={'/images/spring.webp'} title={'Spring Boot'} />,
-            ],
-            descripcion: t("aboutUs.paragraph6")
-        },
-        { 
-            id: 6, 
-            habilidades: [
                 <SkillItem key="AWS" imageSrc={'/images/aws.webp'} title={'AWS'} />,
-                <SkillItem key="OCI" imageSrc={'/images/oci.webp'} title={'OCI'} />,
+                <SkillItem key="Azure" imageSrc={'/images/oci.webp'} title={'Azure'} />,
             ],
-            descripcion: t("aboutUs.paragraph7")
-        },
-        { 
-            id: 6, 
-            habilidades: [
-                <SkillItem key="JUnit" imageSrc={'/images/junit.webp'} title={'JUnit'} />,
-                <SkillItem key="Selenium" imageSrc={'/images/selenium.webp'} title={'Selenium'} />,
-                <SkillItem key="Playwright" imageSrc={'/images/playwright.webp'} title={'Playwright'} />,
-                <SkillItem key="Cypress" imageSrc={'/images/cypress.webp'} title={'Cypress'} />,
-            ],
-            descripcion: t("aboutUs.paragraph8")
+            descripcion: t("aboutUs.paragraph4")
         }
     ];
 
