@@ -39,7 +39,7 @@ const Quarters = () => {
             id: 4, 
             habilidades: [
                 <SkillItem key="AWS" imageSrc={'/images/aws.webp'} title={'AWS'} />,
-                <SkillItem key="Azure" imageSrc={'/images/oci.webp'} title={'Azure'} />,
+                <SkillItem key="Azure" imageSrc={'/images/azure.webp'} title={'Azure'} />,
             ],
             descripcion: t("aboutUs.paragraph4")
         }
